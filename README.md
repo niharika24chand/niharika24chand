@@ -6,7 +6,7 @@ I am an enthusiastic learner with a deep curiosity about the convergence of data
 
 ---
 
-### 🌟 **Tech Stack:**
+### 🧰 **Tech Stack:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -16,7 +16,7 @@ I am an enthusiastic learner with a deep curiosity about the convergence of data
 
 ---
 
-### 📈 **GitHub Stats:**
+### 📊 **GitHub Stats:**
 ![Niharika Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika24chand&show_icons=true&theme=radical)
 
 ---
