@@ -17,10 +17,10 @@ I am an enthusiastic learner with a deep curiosity about the convergence of data
 ---
 
 ### 📈 **GitHub Stats:**
-![Niharika Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Niharika Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika24chand&show_icons=true&theme=radical)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niharika24chand&layout=compact&theme=radical)
 
 
