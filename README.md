@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/niharika24chand/niharika24chand/main/WhatsApp Image 2025-05-30 at 23.27.47.jpeg)
+![Header](https://raw.githubusercontent.com/niharika24chand/niharika24chand/main/header.jpeg)
 ---
 
 ## Hi, I'm Niharika Chand
